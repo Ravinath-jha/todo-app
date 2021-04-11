@@ -143,3 +143,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(114,121,9,1) 15%, rgb
   opacity: 1;
   pointer-events: auto;
 }
+
+#not-completed-todo-count{
+  color:white;
+}
